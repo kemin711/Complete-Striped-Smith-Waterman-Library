@@ -1,0 +1,6 @@
+version 1.1.1
+
+Kemin converted to a autotool project to make this package easily
+usable in other projects.
+
+
